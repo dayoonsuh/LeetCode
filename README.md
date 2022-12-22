@@ -1,2 +1,3 @@
-# Xtern
-This is Xtern Work Sample Assessment
+# README
+
+This is a repository for solutions for LeetCode problems.
